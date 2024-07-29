@@ -1,5 +1,5 @@
-# Git-Guide
-
+```markdown
+# Git Collaboration Workflow Guide
 
 This guide provides a step-by-step approach to creating a repository, collaborating with others, managing branches, and handling pull requests on GitHub.
 
